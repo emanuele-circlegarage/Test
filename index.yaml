@@ -18,24 +18,6 @@ entries:
     urls:
     - https://circlegarage.github.io/hrs-microservices/grafana-0.5.4.tgz
     version: 0.5.4
-  grafana:
-  - created: 2018-03-26T16:03:07.1117328+02:00
-    description: The leading tool for querying and visualizing time series and metrics.
-    digest: 52d7f817aece248cd0b41016c608350d8680d2d9cb2c6b18a6302d0c34952814
-    engine: gotpl
-    home: https://grafana.net
-    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
-    keywords:
-    - dashboarding
-    maintainers:
-    - email: zanhsieh@gmail.com
-      name: Ming Hsieh
-    name: grafana
-    sources:
-    - https://github.com/grafana/grafana
-    urls:
-    - https://circlegarage.github.io/hrs-microservices/grafana-0.5.4.tgz
-    version: 0.5.4
   rethinkdb:
   - created: 2018-03-26T16:03:07.1227887+02:00
     description: The open-source database for the realtime web
